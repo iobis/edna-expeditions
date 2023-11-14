@@ -24,3 +24,7 @@ This is the technical documentation for the eDNA Expeditions project.
 
 - https://github.com/iobis/edna-sample-analysis
 - https://github.com/iobis/edna-tracker-api
+
+## Data
+
+An overview of datasets available for downstream analysis will be added soon.
