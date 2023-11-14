@@ -7,6 +7,7 @@ This is the technical documentation for the eDNA Expeditions project.
 
 - https://github.com/iobis/edna-samples: sample registration app.
 - https://github.com/iobis/edna-tracker: sample tracking website.
+- https://github.com/iobis/edna-tracker-data: workflow for fetching and transforming PlutoF metadata.
 - https://github.com/iobis/edna-data-entry: PlutoF data entry documentation.
 - https://github.com/iobis/mwhs-obis-species: script to extract species lists from OBIS for all marine world heritage sites.
 - https://github.com/iobis/PacMAN-pipeline: PacMAN bioinformatics pipeline.
