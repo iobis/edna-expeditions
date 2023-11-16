@@ -16,6 +16,8 @@ This is the technical documentation for the eDNA Expeditions project.
 - https://github.com/iobis/edna-issues-api: API for issue submission from sample tracker.
 - https://github.com/iobis/edna-species-lists: workflow to create combined eDNA and OBIS species lists for sample tracker.
 - https://github.com/iobis/edna-gaps: regionalized gap analysis of eDNA reference databases.
+- https://github.com/iobis/edna-results: processed eDNA results.
+- https://github.com/iobis/edna-qc: eDNA detections quality control (to be added).
 
 ### Data analysis
 
