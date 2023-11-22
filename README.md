@@ -22,6 +22,7 @@ This is the technical documentation for the eDNA Expeditions project.
 ### Data analysis
 
 - https://github.com/iobis/edna-science: scientific analysis ideas.
+- https://github.com/iobis/marineheritage_sst: temperature trends by site.
 
 ### Deprecated
 
