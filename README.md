@@ -29,6 +29,10 @@ This is the technical documentation for the eDNA Expeditions project.
 - https://github.com/iobis/edna-sample-analysis
 - https://github.com/iobis/edna-tracker-api
 
+## Portals
+
+- https://samples.ednaexpeditions.org/: sample tracking and species lists.
+
 ## Data
 
 An overview of datasets available for downstream analysis will be added soon.
