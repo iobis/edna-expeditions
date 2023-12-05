@@ -2,6 +2,8 @@
 
 This is the technical documentation for the eDNA Expeditions project.
 
+![dataflow](data_flow.drawio.png)
+
 ## Repositories
 ### Data flow
 
