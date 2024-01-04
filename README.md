@@ -1,8 +1,16 @@
 # edna-expeditions
 
-This is the technical documentation for the eDNA Expeditions project.
+This is the technical documentation for the eDNA Expeditions project. Data processing for eDNA Expeditions is organized in a number of public GitHub repositories that are linked together as follows:
 
 ![dataflow](data_flow.drawio.png)
+
+## Data access
+
+Data are available at different levels of data processing:
+
+- **Raw sequence** data will be made available later.
+- A selection of files are available straight from the bioinformatics pipeline at [pacman-pipeline-results](https://github.com/iobis/pacman-pipeline-results). This includes **vsearch results, RDP classifier results, and Darwin Core tables by site and marker**.
+- These individual datasets are combined together with sample metadata into an **integrated Darwin Core dataset** available at [edna-results](https://github.com/iobis/edna-results).
 
 ## Repositories
 ### Data flow
