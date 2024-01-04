@@ -5,6 +5,7 @@ This is the technical documentation for the eDNA Expeditions project. Data proce
 ![dataflow](data_flow.drawio.png)
 
 ## Data access
+### Biodiversity data 🐠
 
 Data are available at different levels of data processing:
 
@@ -12,6 +13,10 @@ Data are available at different levels of data processing:
 - A selection of files are available straight from the bioinformatics pipeline at [pacman-pipeline-results](https://github.com/iobis/pacman-pipeline-results). This includes **vsearch results, RDP classifier results, and Darwin Core tables by site and marker**.
 - These individual datasets are combined together with sample metadata into an **integrated Darwin Core dataset** available at [edna-results](https://github.com/iobis/edna-results).
 - **Species lists by site from eDNA as well as OBIS/GBIF** are available at [edna-species-lists](https://github.com/iobis/edna-species-lists).
+
+### Environmental data 🌡️ 
+
+To be added.
 
 ## Repositories
 ### Data flow
@@ -46,7 +51,3 @@ Data are available at different levels of data processing:
 ## Portals
 
 - https://samples.ednaexpeditions.org/: sample tracking and species lists.
-
-## Data
-
-An overview of datasets available for downstream analysis will be added soon.
