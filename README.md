@@ -5,6 +5,10 @@ This is the technical documentation for the eDNA Expeditions project. Data proce
 ![dataflow](data_flow.drawio.png)
 
 ## Data access
+### Site geometries
+
+A geopackage with all site geometries is available at <https://github.com/iobis/mwhs-shapes>.
+
 ### Biodiversity data 🐠
 
 Data are available at different levels of data processing:
