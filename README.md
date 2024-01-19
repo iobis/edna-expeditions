@@ -9,6 +9,10 @@ This is the technical documentation for the eDNA Expeditions project. Data proce
 
 A geopackage with all site geometries is available at <https://github.com/iobis/mwhs-shapes>.
 
+### Site and sample information
+
+Site and sample attributes are available at <https://github.com/iobis/edna-tracker-data/blob/data/generated.json> but also included in the biodiversity dataset below.
+
 ### Biodiversity data 🐠
 
 Data are available at different levels of data processing:
