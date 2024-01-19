@@ -49,7 +49,7 @@ To be added.
 ### Data analysis
 
 - https://github.com/iobis/edna-science: scientific analysis ideas.
-- https://github.com/iobis/marineheritage_sst: temperature trends by site.
+- https://github.com/iobis/marineheritage-sst: temperature trends by site.
 
 ### Deprecated
 
