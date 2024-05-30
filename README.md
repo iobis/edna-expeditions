@@ -19,7 +19,7 @@ Data are available at different levels of data processing:
 
 - **Raw sequence** data will be made available later.
 - A selection of files are available straight from the bioinformatics pipeline at [pacman-pipeline-results](https://github.com/iobis/pacman-pipeline-results). This includes **vsearch results, RDP classifier results, and Darwin Core tables by site and marker**.
-- These individual datasets are combined together with sample metadata into an **integrated Darwin Core dataset**, and **species lists including observartions from GBIF and OBIS**. This workflow is available at [edna-results](https://github.com/iobis/edna-results) and data can be downloaded from:
+- These individual datasets are combined together with sample metadata into an **integrated Darwin Core dataset**, and **species lists including observations from GBIF and OBIS**. This workflow is available at [edna-results](https://github.com/iobis/edna-results) and data can be downloaded from:
   - [Browse species lists](https://obis-edna-lists.s3.amazonaws.com/index.html)
   - [Download species lists](https://obis-edna-lists.s3.amazonaws.com/output_lists.zip)
   - [Download Darwin Core dataset](https://obis-edna-results.s3.amazonaws.com/output.zip)
