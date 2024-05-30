@@ -19,8 +19,10 @@ Data are available at different levels of data processing:
 
 - **Raw sequence** data will be made available later.
 - A selection of files are available straight from the bioinformatics pipeline at [pacman-pipeline-results](https://github.com/iobis/pacman-pipeline-results). This includes **vsearch results, RDP classifier results, and Darwin Core tables by site and marker**.
-- These individual datasets are combined together with sample metadata into an **integrated Darwin Core dataset** available at [edna-results](https://github.com/iobis/edna-results).
-- **Species lists by site from eDNA as well as OBIS/GBIF** are available at [edna-species-lists](https://github.com/iobis/edna-species-lists).
+- These individual datasets are combined together with sample metadata into an **integrated Darwin Core dataset**, and **species lists including observartions from GBIF and OBIS**. This workflow is available at [edna-results](https://github.com/iobis/edna-results) and data can be downloaded from:
+  - [Browse species lists](https://obis-edna-lists.s3.amazonaws.com/index.html)
+  - [Download species lists](https://obis-edna-lists.s3.amazonaws.com/output_lists.zip)
+  - [Download Darwin Core dataset](https://obis-edna-results.s3.amazonaws.com/output.zip)
 
 ### Environmental data 🌡️ 
 
@@ -31,10 +33,9 @@ To be added.
 
 - https://github.com/iobis/PacMAN-pipeline: PacMAN bioinformatics pipeline.
 - https://github.com/iobis/pacman-pipeline-results: results from the PacMAN pipeline.
-- https://github.com/iobis/edna-results: processed eDNA results.
+- https://github.com/iobis/edna-results: processed eDNA results and species lists.
 - https://github.com/iobis/edna-qc: eDNA detections quality control.
 - https://github.com/iobis/mwhs-obis-species: script to extract species lists from OBIS for all marine world heritage sites.
-- https://github.com/iobis/edna-species-lists: workflow to create combined eDNA and OBIS species lists for sample tracker.
 - https://github.com/iobis/edna-gaps: regionalized gap analysis of eDNA reference databases.
 
 ### Sample tracking
@@ -55,6 +56,7 @@ To be added.
 
 - https://github.com/iobis/edna-sample-analysis
 - https://github.com/iobis/edna-tracker-api
+- https://github.com/iobis/edna-species-lists: workflow to create combined eDNA and OBIS species lists for sample tracker.
 
 ## Portals
 
