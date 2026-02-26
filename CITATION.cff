@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: eDNA Expeditions documentation
+type: dataset
+abstract: Technical documentation for eDNA Expeditions
+url: https://github.com/iobis/edna-expeditions
+license: CC-BY-IGO-4.0
+authors:
+  - given-names: Pieter
+    family-names: Provoost
+    orcid: "https://orcid.org/0000-0002-4236-0384"
+  - family-names: silasprincipe
+    orcid: "https://orcid.org/0000-0002-8059-6304"
+  - name: Intergovernmental Oceanographic Commission of UNESCO
+    alias: IOC-UNESCO
+    website: "https://obis.org"
+date-released: 2025-06-24
